@@ -3,4 +3,5 @@
 "description": "Join us and help us secure the Cardano network! Core values: reliability, honesty and transparency. Sit back, relax, and delegate.",
 "ticker": "CORAL",
 "homepage": "https://coralstake.com",
+"extended": "https://raw.githubusercontent.com/MarianoL10/CoralStake/main/extended-metadata.json" 
 }
