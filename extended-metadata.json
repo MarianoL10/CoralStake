@@ -1,0 +1,33 @@
+{
+    "verification":"0ffa654160202e77ae",
+    "info": {
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
+        "location": "London, England",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": "",
+            "patreon_handle": "",
+            "linkedin_handle": "",
+            "ada_handle": "$cexplorer"
+        },
+        "company": {
+            "name": "Coral pool (CORAL)",
+            "addr": "",
+            "city": "London",
+            "country": "England",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "",
+            "server": "",
+            "company": ""
+        }
+    }
+}
